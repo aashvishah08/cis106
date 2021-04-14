@@ -1,5 +1,6 @@
 # What is GNU-Linux?
 GNU-Linux® is an open source operating system (OS). An operating system is the software that directly manages a system's hardware and resources, like CPU, memory, and storage.
+![Linux](https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png)
 # 3 Reasons to use GNU-Linux:
 * Reason 1 GNU-Linux is a free OS and highly secured.
 * Reason 2 GNU-Linux can run on any hardware.
