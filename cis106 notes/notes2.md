@@ -1,4 +1,4 @@
-Notes 2:
+**Notes 2:**
 These notes must include:
 * What is Virtualization?
 * Using VirtualBox (optional)
